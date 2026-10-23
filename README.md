@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/salma-izoughar-0938b91bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/salmaizou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/salmaizou/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio project"/></a>
+  <a href="https://salmaizou.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio project"/></a>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Cryptography fundamentals, secure communication, and data analysis.
 
 | Project | What it explores | Tools |
 |---|---|---|
-| [**Portfolio project**](https://github.com/salmaizou/my-portfolio) | My personal portfolio project and its source code. | Web development |
+| [**Portfolio source code**](https://github.com/salmaizou/my-portfolio) | My personal portfolio project and its source code. | Web development |
 | [**PyTorch CIFAR-10**](https://github.com/salmaizou/pytorch-CIFAR) | An end-to-end image-classification workflow: data preparation, CNN training, and evaluation on CIFAR-10. | Python · PyTorch |
 | [**Audiovisual Processing**](https://github.com/salmaizou/Audiovisual-processing) | Video scene-change detection combining color histograms and edge information, with precision, recall, and F1 evaluation. | Python · OpenCV · NumPy |
 | [**Cryptography & Secure Systems**](https://github.com/salmaizou/cybersecurity) | Educational implementations and explorations of symmetric encryption, RSA, frequency analysis, and HTTPS/TLS concepts. | Python · Cryptography |
@@ -107,7 +107,7 @@ I'm happy to connect with people interested in machine learning, computer vision
 <p>
   <a href="https://www.linkedin.com/in/salma-izoughar-0938b91bb/">LinkedIn</a> ·
   <a href="https://github.com/salmaizou">GitHub</a> ·
-  <a href="https://github.com/salmaizou/my-portfolio">Portfolio</a>
+  <a href="https://salmaizou.github.io/my-portfolio/">Portfolio</a>
 </p>
 
 <p align="center"><sub>Thanks for visiting — feel free to explore my projects.</sub></p>
