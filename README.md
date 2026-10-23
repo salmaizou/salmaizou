@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/salma-izoughar-0938b91bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/salmaizou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://salmaizou.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio project"/></a>
+  <a href="https://salma-izoughar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio"/></a>
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@ I'm **Salma Izoughar**, an engineering student at **École Centrale de Lyon**. I
 - 🌱 Exploring applied machine learning and computer vision
 - 🔭 Building projects with Python, PyTorch, and OpenCV
 - 🧩 Interested in data-driven systems and secure computing
+- 💻 GitHub: [@salmaizou](https://github.com/salmaizou)
 
 ---
 
@@ -106,8 +107,8 @@ I'm happy to connect with people interested in machine learning, computer vision
 
 <p>
   <a href="https://www.linkedin.com/in/salma-izoughar-0938b91bb/">LinkedIn</a> ·
-  <a href="https://github.com/salmaizou">GitHub</a> ·
-  <a href="https://salmaizou.github.io/my-portfolio/">Portfolio</a>
+  <a href="https://github.com/salmaizou">GitHub (@salmaizou)</a> ·
+  <a href="https://salma-izoughar-portfolio.vercel.app/">Live portfolio</a>
 </p>
 
 <p align="center"><sub>Thanks for visiting — feel free to explore my projects.</sub></p>
